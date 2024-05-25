@@ -21,8 +21,7 @@ To use the OpenAI language model in the script, you need to obtain an API key fr
 
 ## Usage
 1. Run the script.
-2. Input the email content, client name, and sender name when prompted.
-3. The script will generate a professional email based on the provided inputs.
+2. Input your Wikipedia research prompt: What tasks you want to attempt to do with Wikipedia data.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions, improvements, or bug fixes.
