@@ -1,4 +1,4 @@
-# Professional Email Generator
+# Wikipedia Researcher
 
 ## Overview
 This Python script utilizes the langchain library and OpenAI's language model to generate professional email content. 
